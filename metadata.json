@@ -1,0 +1,7 @@
+{
+  "name": "سامانه مدیریت مرکزی",
+  "description": "سامانه مدیریت مرکزی و پردازش دسته‌ای مخاطبین سازمانی با طراحی مدرن فارسی و رابط کاربری یکپارچه",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
